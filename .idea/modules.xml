@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BancoTerminal/BancoTerminal.iml" filepath="$PROJECT_DIR$/BancoTerminal/BancoTerminal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ContaBanco/ContaBanco.iml" filepath="$PROJECT_DIR$/ContaBanco/ContaBanco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesafioControleFluxo/DesafioControleFluxo.iml" filepath="$PROJECT_DIR$/DesafioControleFluxo/DesafioControleFluxo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Exercicios-Java-Dio.iml" filepath="$PROJECT_DIR$/.idea/Exercicios-Java-Dio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista Encadeada/Lista Encadeada.iml" filepath="$PROJECT_DIR$/Lista Encadeada/Lista Encadeada.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iPhone/iPhone.iml" filepath="$PROJECT_DIR$/iPhone/iPhone.iml" />
+    </modules>
+  </component>
+</project>
